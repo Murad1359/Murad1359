@@ -1,3 +1,5 @@
+<img align="right"  alt="GIF" height="45%" width="45%" src="https://github.com/Murad1359/GIF/blob/main/programming-computer.gif" />
+
 # 💫 About Me:
 I am a student at ADNSU.<br>I am working as DataBase Scientist in LogiX INC. <br>I learn HTML, CSS, JS and T-SQL.<br>
 
